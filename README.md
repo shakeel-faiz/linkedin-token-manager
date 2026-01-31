@@ -1,2 +1,1 @@
-# linkedin-token-manager
-LinkedIn Token Generator
+## LinkedIn Token Generator
